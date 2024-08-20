@@ -9,7 +9,7 @@
 
 - 📝 Actualmente soy Gerente Tecnico para "DeltaHost" [https://deltahost.cloud](https://deltahost.cloud)
 
-- ⚡ Sobre Mi **No intento aprender ningun lenguaje, framework o alguna otra tecnologia, actualmente mientras soy estudiante nada mas hago lo que se me ocurre al momento**
+- ⚡ **No intento aprender ningun lenguaje, framework o alguna otra tecnologia, actualmente mientras soy estudiante nada mas hago lo que se me ocurre al momento**
 
 <p align="left">
 </p>
