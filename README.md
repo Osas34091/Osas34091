@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋 Soy Osas34091</h1>
 <h3 align="center">Estudiante con el hobby de Servidores De Minecraft!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osas34091&label=Vistas&color=0e75b6&style=flat" alt="osas34091" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=osas34091&label=Vistas&color=0e75b6&style=flat" alt="osas34091" /> </p>
 
 - 🔭 Actualmente trabajando en [AnimeBattleSky](mc.animeskybattle.com)
 
