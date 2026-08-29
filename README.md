@@ -11,7 +11,6 @@
 
 - ⚡ **No intento aprender ningun lenguaje, framework o alguna otra tecnologia, actualmente mientras soy estudiante nada mas hago lo que se me ocurre al momento**
 
-<p align="left">
-</p>
-
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Osas34091&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</p>
