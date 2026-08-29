@@ -14,4 +14,4 @@
 <p align="left">
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osas34091&" alt="osas34091" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Osas34091&theme=dark&hide_border=true)](https://git.io/streak-stats)
